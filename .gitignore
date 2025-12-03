@@ -1,0 +1,11 @@
+**/bin
+**/obj
+
+# Ignore all .csproj files
+*.csproj
+
+# Optional: Ignore build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
